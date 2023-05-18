@@ -1,7 +1,8 @@
 ### Hi, i´m Carmen 👋
 
 I am a systems engineer, specialized in information systems management, with extensive experience in systems auditing. Currently learning new programming languages/platforms to increase my technical skills in web design, web development, troubleshooting and more.
-My main languages are:Javascript, Sql, C#, Cobol.
+<br>
+My main languages are: Javascript, Sql, C#.
 
 📫 You can to reach me: carmenborjap@gmail.com
 
